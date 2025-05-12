@@ -1,6 +1,6 @@
-# 🧠 Scientific Review MCP Platform
+# PeerLens
 
-A Modular Computation Platform (MCP) designed to help scientists **write, refine, and rehearse the peer-review process** before formal submission. Built to mimic and accelerate academic review workflows using intelligent agents.
+Peerlens is a MCP designed to help scientists **write, refine, and rehearse the peer-review process** before formal submission. Built to mimic and accelerate academic review workflows using intelligent agents.
 
 ---
 
