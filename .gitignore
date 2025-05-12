@@ -1,0 +1,47 @@
+.env
+
+notebooks/
+
+# === Python artifacts ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# === Virtual environment ===
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+*.env
+
+# === Output directories ===
+papers/
+output/
+rebuttal_outputs/
+example_extracted/
+*.pdf
+*.txt
+
+# === Notebook checkpoints ===
+.ipynb_checkpoints
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === VSCode or IDE-specific ===
+.vscode/
+.idea/
+
+# === Logs and reports ===
+*.log
+*.out
+*.report
+*.cache
+
+# === Secrets or credentials (if used) ===
+config.yaml
+secrets.env
